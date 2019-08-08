@@ -1,5 +1,6 @@
 ---
 title: SNES Version Compare
+sidebar: true
 
 ---
 The SNES Mini and 1CHIP consoles output a much higher quality signal then the older SNES revisions.  This page explains the differences.  Please read on for more information:

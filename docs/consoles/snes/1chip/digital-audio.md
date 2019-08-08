@@ -1,10 +1,7 @@
 ---
 title: SNES 1CHIP Digital Audio
-layout: layouts/wiki-page.njk
-category: snes
-section: 1chip
 ---
-**SNES 1CHIP SPDIF Digital Audio Mod**
+# SNES 1CHIP SPDIF Digital Audio Mod
 
 This page shows installation instructions for the SNES digital audio mod.  It’s been tested on all versions of the 1CHIP SNES, including 1CHIP-01, 1CHIP-02 and 1CHIP-03. 
 
@@ -12,13 +9,13 @@ This page shows installation instructions for the SNES digital audio mod.  It�
 
 As an FYI, there are two types of audio that are not compatible with the digital audio mod:
 
-> – Super Game Boy adapters create their own audio, so Game Boy audio can only be passed through the analog-out of the SNES, not digital.
-> 
-> – Any homebrew game that uses the MSU Audio programming of the SD2SNES [rom cart](/romcarts) will not work with the digital audio mod.  All other games work and sound perfectly via the SD2SNES, but (much like the SGB), MSU audio is created in the SD2SNES cart, not the SNES, bypassing the internal sound chips.
+– Super Game Boy adapters create their own audio, so Game Boy audio can only be passed through the analog-out of the SNES, not digital.
+
+– Any homebrew game that uses the MSU Audio programming of the SD2SNES [rom cart](/romcarts) will not work with the digital audio mod.  All other games work and sound perfectly via the SD2SNES, but (much like the SGB), MSU audio is created in the SD2SNES cart, not the SNES, bypassing the internal sound chips.
 
 Other then that, as far as I know, there are no other game compatibility problems, but PLEASE NOTE:  This digital audio mod is not compatible with many stereo receivers.  I’ve been lucky and have had great success, however many other people have problems with their setups.
 
-**Tools / Parts Needed:**
+## Tools / Parts Needed
  You’ll need a few tools for this mod (more info on the tools can be found in [the tools section](/tools)):
 – [SNES Digital Audio board](http://store.retrofixes.com/products/snes-spdif-digital-audio-upgrade-board?rfsn=255623.6664d)
 – Basic soldering skills.

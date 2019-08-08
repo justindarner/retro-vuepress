@@ -12,7 +12,7 @@ All original (large) versions of the Super Nintendo and Super Famicom (NTSC & PA
 
 This page describes in detail which RGB cables to buy and which will output proper sync.
 
-## [SNES Version Compare](/consoles/snes/version)
+## [SNES Version Compare](/consoles/snes/version/)
 
 This page shows you the different versions of the SNES and compares the video quality of each of the revisions.
 

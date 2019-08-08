@@ -13,7 +13,7 @@ In 1995, Nintendo released a revision to their Super Nintendo consoles that comb
 
 ## Finding the 1CHIP SNES
 
-We have a page dedicated to this, with as much information as I could find: [http://www.retrorgb.com/1chipsnes.html](http://www.retrorgb.com/1chipsnes.html)
+We have a page dedicated to this, with as much information as I could find: [Finding The 1CHIP](./finding-the-1chip)
 
 ## Brightness / Signal correction:
 

@@ -1,7 +1,18 @@
 module.exports = {
   title: 'Video Game Archives',
   description: 'Your source for retro-gaming preservation and documentation',
+  serviceWorker: {
+    updatePopup: true,
+  },
   themeConfig: {
+    // github
+    repo: 'justindarner/retro-vuepress',
+    repoLabel: 'Contribute!',
+    docsDir: 'docs',
+    docsBranch: 'master',
+    editLinks: true,
+    editLinkText: 'Help us improve this page!',
+    // nav
     nav: [
       {
         text: 'Home',

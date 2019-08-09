@@ -2,13 +2,14 @@
 title: SNES
 sidebar: true
 ---
+
 # Super Nintendo / Super Famicom
 
-All original (large) versions of the Super Nintendo and Super Famicom (NTSC & PAL) can output RGB without a modification – All that’s required is [the proper cable](/consoles/snes/csync).  The SNES Mini / SNES Jr. outputs a better signal then most of the large versions, but requires a modification to get RGB.  Please scroll down for more information: 
+All original (large) versions of the Super Nintendo and Super Famicom (NTSC & PAL) can output RGB without a modification – All that’s required is [the proper cable](/consoles/snes/csync.md).  The SNES Mini / SNES Jr. outputs a better signal then most of the large versions, but requires a modification to get RGB.  Please scroll down for more information:
 
 ![](https://cdn.retrorgb.com/images/SNESPage01.jpg)
 
-## [Super Nintendo / Super Famicom RGB Cables and sync information](/consoles/snes/csync)
+## [Super Nintendo / Super Famicom RGB Cables and sync information](/consoles/snes/csync.md)
 
 This page describes in detail which RGB cables to buy and which will output proper sync.
 
@@ -21,6 +22,7 @@ This page shows you the different versions of the SNES and compares the video qu
 The SNES Mini / Jr requires a modification to enable RGB output.  This page provides information on the different SNES Mini RGB mods available.
 
 ## [SNES 1CHIP Revision](/consoles/snes/1chip/index)
+
 The SNES “1CHIP” consoles are the only revisions in the original case that output video quality as good as the SNES Mini.  This page has information on these consoles, methods to find them and ways to enhance them.
 
 ## [SNES Digital Audio Mod](/consoles/snes/digital-audio/index)
@@ -31,7 +33,7 @@ The SNES is capable of outputting SPDIF digital audio.
 
 This page describes the SNES “vertical line” issue and ways to fix it.
 
-## [SNES Tips](/consoles/snes/tips)
+## [SNES Tips](/consoles/snes/tips.md)
 
 This page shows tips for SNES systems, such as fixing a loose cartridge release lever and a quick mod to play NTSC-J games on NTSC systems.
 
@@ -49,4 +51,4 @@ The Super NT is an FPGA SNES designed by Kevtris that outputs up to 1080p 5x in 
 
 – If you’re a fan of Super Metroid, I have a page dedicated to .
 
-If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/) or check out [the main page](/) for more retro-awesomeness.
+If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/README.md) or check out [the main page](/README.md) for more retro-awesomeness.

@@ -9,7 +9,7 @@ RGB SCART Cables and sync information**
 All original (large) versions of the Super Nintendo and Super Famicom (NTSC & PAL) can output RGB without a modification, however each region requires a different cable.  The SNES Mini / Famicom Jr. require a modification before an RGB cable can be used (see [the SNES Mini page](/consoles/snes/mini/rgb) for more info). Also, if you’re not sure what csync is, I strongly recommend reading the [sync page](/info/sync) before continuing.  Here are your cable choices:
 
 ## NTSC Super Nintendo / Super Famicom systems
-(large, original version) can all output csync without a modification, except the very rare 1CHIP-03. If you have a 1CHIP-03, either use luma as sync, or see the instructions below to connect csync:
+(large, original version.md) can all output csync without a modification, except the very rare 1CHIP-03. If you have a 1CHIP-03, either use luma as sync, or see the instructions below to connect csync:
 
 [**Super Nintendo SNES RGB SCART cable (NTSC)**](https://www.retrogamingcables.co.uk/packapunch-super-nintendo-entertainment-system-snes-n64-rgb-av-scart-cable-ntsc-gold-scart?tracking=5543fb4c077bb) (UK Seller)
 
@@ -65,4 +65,4 @@ I’ve seen people restore csync on these consoles by using a simple jumper wi
 The SNES multi-out cable connector is very hard to find on its own.  If you’d like to try and make your own SNES cables, you could buy a cheap SNES RGB cable and use the multi-out end.  As an FYI, these cables are *terrible* quality and will produce a very bad image, but just the connector and SCART head should be fine:  [http://www.play-asia.com/rgb-cable/13/7064](http://www.play-asia.com/rgb-cable/13/7064)
 
 
-That’s it! Check out [the SNES Mini RGB mod](/consoles/snes/csync), or feel free to go back to the [main SNES page](/consoles/snes).  If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/)or check out [the main page](/) for more retro-awesomeness.
+That’s it! Check out [the SNES Mini RGB mod](/consoles/snes/csync.md), or feel free to go back to the [main SNES page](/consoles/snes/README.md).  If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/README.md)or check out [the main page](/README.md) for more retro-awesomeness.

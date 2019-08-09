@@ -89,7 +89,7 @@ Unfortunately, my conclusion isn’t an easy one and is different across each co
 
 **1CHIP:**
 
- – You can chose to do nothing and use the 1CHIP consoles as-is (1CHIP-03 would require [a slightly different cable](/consoles/snes/csync))!  Overall, you’ll still get much better video output then using a 2-chip and it’s a great solution.
+ – You can chose to do nothing and use the 1CHIP consoles as-is (1CHIP-03 would require [a slightly different cable](/consoles/snes/csync.md))!  Overall, you’ll still get much better video output then using a 2-chip and it’s a great solution.
 
 – If you’d like to try enhancing the output, for 1CHIP-01 and 1CHIP-02, I would start by simply [adding the three 750 Ohm resistors to the RGB lines](/consoles/snes/1chip/index) to lower the brightness to the correct level.  If your console is in good condition and there aren’t any other issues, this solution will look amazing and nothing more needs to be done.
 
@@ -103,4 +103,4 @@ Unfortunately, my conclusion isn’t an easy one and is different across each co
 
 – That being said, if you don’t mind soldering to small pins, you might want to just use the S-RGB encoder that’s already on the motherboard.  It will produce an excellent image and some might argue that since Nintendo specifically chose that chip, it’s the “right” one to use.  *DEFINITELY* make sure to add the three 1.2k resistors on the RGB lines ([as described in the guide](/consoles/snes/mini/rgb-board)), as it will bring the output to the current levels.
 
-If you’re done, feel free to go back to the [main SNES page](/consoles/snes).  If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/)or check out [the main page](/) for more retro-awesomeness.
+If you’re done, feel free to go back to the [main SNES page](/consoles/snes/README.md).  If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/README.md)or check out [the main page](/README.md) for more retro-awesomeness.

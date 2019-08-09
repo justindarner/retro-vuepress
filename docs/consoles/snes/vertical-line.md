@@ -1,9 +1,7 @@
 ---
 title: SNES Vertical Line
-layout: layouts/wiki-page.njk
-category: snes
-section: snes
 ---
+
 **SNES Vertical Line Issue**
 
 One problem that’s plagues some SNES consoles is a vertical line constantly going down the center of the screen. Please read on for more information:
@@ -45,24 +43,18 @@ Instead of replacing the voltage regulator, you can try adding a capacitor to it
 
 [Alex / ArcadeTV](https://twitter.com/arcadetv) suggests a similar method that includes replacing the big 2200uF capacitor plus three 220uF: one on the output of the 7805 and the two remaining on the supply-pins of the S-RGB IC. Here’s a link for more information: [http://circuit-board.de/forum/index.php/Thread/12133-Vertikale-wei%C3%9Fe-Linie-beim-SNES-Wer-hat-sie-wer-nicht/?postID=293232#post293232](http://circuit-board.de/forum/index.php/Thread/12133-Vertikale-wei%C3%9Fe-Linie-beim-SNES-Wer-hat-sie-wer-nicht/?postID=293232#post293232)
 
- 
-
 **RGB Bypass as a solution for 1CHIP / Mini Consoles:**
 
-I’ve personally seen an RGB bypass fix the white line issue on many SNES consoles and it’s one of the reasons I’ve recommended beginners use a bypass instead of the on-board amp for the Mini. That being said, if you have a 1CHIP (no RGB mod needed), or if you’ve already done the on-board RGB mod to a SNES Mini, then the above fix might be a better overall solution.  Also, adding an RGB amp will *not* fix the white line for composite video out, only RGB!
+I’ve personally seen an RGB bypass fix the white line issue on many SNES consoles and it’s one of the reasons I’ve recommended beginners use a bypass instead of the on-board amp for the Mini. That being said, if you have a 1CHIP (no RGB mod needed), or if you’ve already done the on-board RGB mod to a SNES Mini, then the above fix might be a better overall solution.  Also, adding an RGB amp will _not_ fix the white line for composite video out, only RGB!
 
-> 
+>
 
 **Other Fixes / Information:**
 
 There have been a few other fixes reported over the years. I haven’t had time to test them, but wanted to add the information in case it could help someone else.
 
-Use an SD2SNES???  Yes, that’s right – It seems the newer revisions of the [SD2SNES ROM cart](/romcarts) have an upgraded power filter, so the white line is *significantly* reduced.  I have replicated this in my testing as well:  [https://krikzz.com/forum/index.php?topic=5390.0](https://krikzz.com/forum/index.php?topic=5390.0)
+Use an SD2SNES???  Yes, that’s right – It seems the newer revisions of the [SD2SNES ROM cart](/romcarts) have an upgraded power filter, so the white line is _significantly_ reduced.  I have replicated this in my testing as well:  [https://krikzz.com/forum/index.php?topic=5390.0](https://krikzz.com/forum/index.php?topic=5390.0)
 
 Here’s another possible fix that I have not tested: [http://www.sega-16.com/forum/showthread.php?18935-SNES-vertical-line-issue&p=591084&viewfull=1#post591084](http://www.sega-16.com/forum/showthread.php?18935-SNES-vertical-line-issue&p=591084&viewfull=1#post591084)
 
- 
-
- 
-
-Feel free to go back to the [main SNES page](/consoles/snes).  If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/)or check out [the main page](/) for more retro-awesomeness.
+Feel free to go back to the [main SNES page](/consoles/snes/README.md).  If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/README.md)or check out [the main page](/README.md) for more retro-awesomeness.

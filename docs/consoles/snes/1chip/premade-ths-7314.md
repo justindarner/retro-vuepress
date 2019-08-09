@@ -1,16 +1,14 @@
 ---
 title: 1CHIP Pre-Made 7314 Amp
-layout: layouts/wiki-page.njk
-category: snes
-section: 1chip
 ---
+
 **SNES 1CHIP RGB Amp Bypass – Pre-Made THS7314 Chip**
 
 All model 1 SNES systems (including the 1CHIP) output RGB*without*a modification.  This page shows how to bypass the stock output.  In most cases this is*not*needed.  Please read the main 1CHIP page for more information.
 
 ![](https://cdn.retrorgb.com/images/1CHIPPage01.JPG)
 
-**WARNING**: This mod is*only*for the 1CHIP systems, as the motherboards for different SNES revisions will be different and the pins will*not*match up.  RGB-bypassing the older systems will most likely not make a difference anyway. Per Tim Worthington (creator of the NESRGB): “*The original Super Nintendo/Famicom video chip does low pass filtering on the RGB video before it gets out to the pins. The 1 chip version doesn’t do this, that’s why the video from this console looks better. I don’t think replacing the video driver circuit would make any difference.*”
+**WARNING**: This mod is*only*for the 1CHIP systems, as the motherboards for different SNES revisions will be different and the pins will*not*match up.  RGB-bypassing the older systems will most likely not make a difference anyway. Per Tim Worthington (creator of the NESRGB): “_The original Super Nintendo/Famicom video chip does low pass filtering on the RGB video before it gets out to the pins. The 1 chip version doesn’t do this, that’s why the video from this console looks better. I don’t think replacing the video driver circuit would make any difference._”
 
 Also, this mod is invasive, as you are required to remove pins of an existing chip.  I don’t recommend this for beginners.  If you’d like this mod performed for you,[click here for Retrofixes mod service and select the Deluxe service](http://store.retrofixes.com).
 
@@ -19,7 +17,7 @@ Tools / Parts Needed:
 You’ll need a few tools for this mod (more info on the tools can be found in):
 
 –[Pre-Made THS 7314 Amplifier Board](http://store.retrofixes.com/collections/upgrade-diy-kits/products/snes-jr-n64-rgb-upgrade-kit?rfsn=255623.6664d) – The amp you purcahse may not look exactly like the one pictured, however as long as the amp is a THS7314, the installation is the same.
-–[SNES RGB cable](/consoles/snes/csync).
+–[SNES RGB cable](/consoles/snes/csync.md).
 
 – Basic soldering skills.
 
@@ -31,15 +29,13 @@ You’ll need a few tools for this mod (more info on the tools can be found in):
 
 – Thin gauge wire
 
- 
-
 – Start by opening the SNES cover with the 4.5mm tool.  Then remove the cartridge release lever and unplug the front controller ports.  Then, unbolt the power switch and then the rest of the philips screws (shown below).
 ![](https://cdn.retrorgb.com/images/1CHIPBypass-01.jpg)
 
 – First you have to “disconnect” the existing RGB connection to the multi-out, in order to allow the new conenction to be made.  Remove the motherboard and locate the multi-out pins on the bottom of the board.  Right near the multi-out, you’ll find resistors labeled R15, R16 and R17 – These connect RGB to the multi-out.  De-solder these resistors to remove the RGB connection to the multi-out.  I suggest checking both before and after with a multimeter, to double check that you have the correct resistors and that that connection has been severed.  Click for a full-sized view that shows in better detail where the resistors are located:
 [![](https://cdn.retrorgb.com/images/SNES1CHIPRGBBypassResistors-Small.jpg)](https://cdn.retrorgb.com/images/SNES1CHIPRGBBypassResistors.jpg)
 
-> – Alternatively, you can remove the metal shielding from the top of the motherboard and use a pick or dental tool to***carefully***lift the three RGB-output legs of the S-RGB chip.  Removing the resistors is the preferred way to disconnect the RGB lines, since you can simply replace the resistors if you’d ever like to put the console back to stock.  In case you prefer this method, click on each picture for full-sized views:
+> – Alternatively, you can remove the metal shielding from the top of the motherboard and use a pick or dental tool to**_carefully_**lift the three RGB-output legs of the S-RGB chip.  Removing the resistors is the preferred way to disconnect the RGB lines, since you can simply replace the resistors if you’d ever like to put the console back to stock.  In case you prefer this method, click on each picture for full-sized views:
 > [![](https://cdn.retrorgb.com/images/1CHIPBypass-02-small.jpg)](https://cdn.retrorgb.com/images/1CHIPBypass-02.jpg)[![](https://cdn.retrorgb.com/images/1CHIPBypass-03-1-small.jpg)](https://cdn.retrorgb.com/images/1CHIPBypass-03-1.jpg)[![](https://cdn.retrorgb.com/images/1CHIPBypass-03-2-small.jpg)](https://cdn.retrorgb.com/images/1CHIPBypass-03-2.jpg)[![](https://cdn.retrorgb.com/images/1CHIPBypass-03-3-small.jpg)](https://cdn.retrorgb.com/images/1CHIPBypass-03-3.jpg)
 
 – Now find the following spot on the motherboard:
@@ -65,7 +61,7 @@ As an FYI, it won’t hurt anything if you accidentally soldered the other pins,
 – That’s it!  Re-assemble the console, power on your system and enjoy RGB!!!  A quick tip:  If your cartridge release lever isn’t as firm as it used to be, you can simply move the spring slightly over.  I find moving it just this tiny bit makes a huge difference:
 ![](https://cdn.retrorgb.com/images/SNESCartridgeSpring.jpg)
 
-Just a reminder: The 1CHIP-01 and 1CHIP-02 systems already have csync running to pin 3 (sync) on the multi-out, so no modification is needed to get true composite sync.  If you have a rare 1CHIP-03 model, you can easily restore csync by adding one wire (click for full-sized).  As with ALL SNES systems, this can*only*be done on NTSC systems,***not***PAL!:
+Just a reminder: The 1CHIP-01 and 1CHIP-02 systems already have csync running to pin 3 (sync) on the multi-out, so no modification is needed to get true composite sync.  If you have a rare 1CHIP-03 model, you can easily restore csync by adding one wire (click for full-sized).  As with ALL SNES systems, this can*only*be done on NTSC systems,**_not_**PAL!:
 [![](https://cdn.retrorgb.com/images/1CHIP-03-csync.jpg)](https://cdn.retrorgb.com/images/1CHIP-03-csync-Large.jpg)
 
 **Brightness Issues:**
@@ -74,7 +70,7 @@ I strongly recommend you add these three resistors, to ensure the video output l
 
 – First, solder[750 Ohm resistors](http://www.digikey.com/product-detail/en/RNMF14FTC750R/S750CACT-ND/2617532)to the same places you’d get RGB from the board.
 
-– Then, make sure to solder the RGB wires***between***the resistors and the board.
+– Then, make sure to solder the RGB wires**_between_**the resistors and the board.
 
 – Finally, the other side of all three resistors to ground (click for full-sized):
 [![](https://cdn.retrorgb.com/images/1CHIPBypass-11.jpg)](https://cdn.retrorgb.com/images/1CHIPBypass-11-large.jpg)
@@ -87,4 +83,4 @@ If you’d like more detailed, technical information, here’s a link to the ass
 
 That’s it!
 
-Feel free to go back to the [main SNES page](/consoles/snes).  If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/)or check out [the main page](/) for more retro-awesomeness.
+Feel free to go back to the [main SNES page](/consoles/snes/README.md).  If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/README.md)or check out [the main page](/README.md) for more retro-awesomeness.

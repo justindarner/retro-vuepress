@@ -1,12 +1,10 @@
 ---
 title: Other SNES Consoles
-layout: layouts/wiki-page.njk
-category: snes
-section: digital audio
 ---
+
 **SNES Digital Audio Mod – Other Console Revisions**
 
-This page shows install points for original Super Nintendo / Super Famicom systems that aren’t the 1CHIP or Mini / Jr. Models. 
+This page shows install points for original Super Nintendo / Super Famicom systems that aren’t the 1CHIP or Mini / Jr. Models.
 
 [![](https://cdn.retrorgb.com/images/SuperFamicomSPDIF.jpg)](http://store.retrofixes.com/products/snes-spdif-digital-audio-upgrade-board?rfsn=255623.6664d)
 
@@ -15,9 +13,9 @@ Each SNES / Super Famicom system uses one of two audio chips listed on [the mai
 For installation in your system, you’ll need to follow the [SNES 1CHIP Digital Audio](/consoles/snes/digital-audio/index) instructions exactly; The only difference will be the solder points for the audio chip.
 
 **Super Famicom SNS-CPU-APU-01**
- On the model I tested, not all pins on the chip were available as via’s. Please click for a full-sized view:
+On the model I tested, not all pins on the chip were available as via’s. Please click for a full-sized view:
 [![](https://cdn.retrorgb.com/images/SNESSPDIF-SNS-CPU-APU-01-small.jpg)](https://cdn.retrorgb.com/images/SNESSPDIF-SNS-CPU-APU-01.jpg)
 
 That’s all I have for now, but I’ll add more as I come across them.  Feel free to [email me](/contact) pics if you’d like to contribute to this page.
 
-If you’re done, feel free to go back to the [main SNES page](/consoles/snes).  If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/)or check out [the main page](/) for more retro-awesomeness.
+If you’re done, feel free to go back to the [main SNES page](/consoles/snes/README.md).  If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/README.md)or check out [the main page](/README.md) for more retro-awesomeness.

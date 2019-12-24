@@ -47,6 +47,6 @@ You’ll need a few tools for this mod (more info on the tools can be found in [
 > – Run the cables through the hole shown in the picture below (click for full-sized to show the entry hole), then trim the cables to their proper length.  I added some heat shrink tubing to keep them together.  Make sure that the wires are away from the mounting hole, then solder them to the pins on the multi-out shown below.  Also, as stated above, the white wire is csync, which is not needed for this mod, but good to have in case you ever plan on adding an RGB mod.
 > [![](https://cdn.retrorgb.com/images/SNESS-Video03-Small.jpg)](https://cdn.retrorgb.com/images/SNESS-Video03.jpg)
 
-That’s it!  This will enable excellent quality S-Video output from your SNES Mini.  It’s not as good as [RGB](/consoles/snes/mini/rgb), but may be a good choice for your setup.
+That’s it!  This will enable excellent quality S-Video output from your SNES Mini.  It’s not as good as [RGB](/consoles/snes/mini/rgb.md), but may be a good choice for your setup.
 
 Feel free to go back to the [main SNES page](/consoles/snes/README.md).  If you’d like info on mods for other systems, head to the [Getting RGB From Each System page](consoles/README.md)or check out [the main page](/README.md) for more retro-awesomeness.

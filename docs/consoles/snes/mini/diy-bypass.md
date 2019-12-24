@@ -6,7 +6,7 @@ title: SNES Mini DIY Amp Bypass
 
 ![](https://cdn.retrorgb.com/images/SNESMiniRGBModPage01.jpg)
 
-This mod shows you how to build your own RGB amp to bypass the SNES Mini’s internal amp.  This isn’t necessary and you can simply use the SNES Mini’s built-in RGB encoder.  This mod is just an alternative method.  For more info, see [the main SNES Mini RGB page](/consoles/snes/mini/rgb).
+This mod shows you how to build your own RGB amp to bypass the SNES Mini’s internal amp.  This isn’t necessary and you can simply use the SNES Mini’s built-in RGB encoder.  This mod is just an alternative method.  For more info, see [the main SNES Mini RGB page](/consoles/snes/mini/rgb.md).
 
 If you’d like this mod performed for you, you can hire the following services:
 

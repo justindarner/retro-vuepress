@@ -56,7 +56,7 @@ Make Your Own Amp Circuit**
 
 **Brightness Levels / Attenuation**
 
-> In some cases, this circuit will look perfect without any other components (like with ), but in many other cases, the image will be slightly too bright.  In these scenarios, the best solution is to use an oscilloscope to measure the exact output and use a set of pulldown resistors.  For SNES Mini and 1CHIP, these values are already calculated and shown in their [respective](/consoles/snes/mini/diy-bypass)[guides](/consoles/snes/1chip/diy-ths-7314.md).
+> In some cases, this circuit will look perfect without any other components (like with ), but in many other cases, the image will be slightly too bright.  In these scenarios, the best solution is to use an oscilloscope to measure the exact output and use a set of pulldown resistors.  For SNES Mini and 1CHIP, these values are already calculated and shown in their [respective](/consoles/snes/mini/diy-bypass.md)[guides](/consoles/snes/1chip/diy-ths-7314.md).
 
 [**THS7374**](**THS7374**)
 

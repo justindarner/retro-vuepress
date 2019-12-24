@@ -30,7 +30,7 @@ Modding Services:**
 > [http://www.mouser.com/ProductDetail/KOA-Speer/MF1-4DCT52R1201F](http://www.mouser.com/ProductDetail/KOA-Speer/MF1-4DCT52R1201F)
 
 **RGB Mod:
-**Themod is pretty easy, however soldering to the S-RGB chip can be extremely challenging.  I usually recommend people use a [pre-made amp](/consoles/snes/mini/rgb) for ease of installation, however if you’re willing to solder to the small points this will work perfectly:
+**Themod is pretty easy, however soldering to the S-RGB chip can be extremely challenging.  I usually recommend people use a [pre-made amp](/consoles/snes/mini/rgb.md) for ease of installation, however if you’re willing to solder to the small points this will work perfectly:
 
 > – Remove the 4 screws holding the plastic cover on using the 4.5mm tool. Then remove the 7 screws holding the motherboard in place (so, basically, just unbolt everything). Finally, unbolt the three screws holding the heatsink and find the S-RGB chip:
 > ![](https://cdn.retrorgb.com/images/SNESMiniRGBModPage02.jpg)

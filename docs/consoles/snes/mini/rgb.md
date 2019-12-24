@@ -14,11 +14,11 @@ The SNES Mini has everything it needs to output RGB, but is missing the connecti
 
 Here are installation guides for the best video mods you can do on your SNES Mini / Super Famicom Jr.  I’ll explain the advantages of each here, then link to the full guide:
 
-### **[Pre-assembled THS7374 amps:](/consoles/snes/mini/ths-7374)**
+### **[Pre-assembled THS7374 amps:](/consoles/snes/mini/ths-7374.md)**
 
 The newer THS7374 chips provide an _excellent_ RGB signal.  You generally don’t find them in DIY projects, as they are extremely small and hard to solder!  Luckily, people have created pre-made amps that include all the circuitry you’d need right on the board!  This makes installation _extremely_ simple and only requires 4 short wires to be added to the bottom of the board. I recommend beginners use this solution, for ease of use, but some experts actually prefer the look of this amp to the onboard S-RGB Encoder.
 
-[![](https://cdn.retrorgb.com/images/SNESVoultarAmp.jpg)](/consoles/snes/mini/ths-7374)
+[![](https://cdn.retrorgb.com/images/SNESVoultarAmp.jpg)](/consoles/snes/mini/ths-7374.md)
 
 ### **[SNES Mini – S-RGB Expansion Board](/consoles/snes/mini/srgb-board)**
 
@@ -34,23 +34,23 @@ These are guides that show you how to perform RGB and S-Video mods as DIY projec
 
 This method is sometimes referred to as the “3-wire” mod, since you’re essentially just connecting the three RGB lines (and sync), plus a few resistors, but that’s pretty much it.  The biggest disadvantage is soldering to the S-RGB can be very challenging for beginners and if you’re adding other mods, the components can get messy.[![](https://cdn.retrorgb.com/images/SNESMiniRGBModPage03.jpg)](/consoles/snes/mini/rgb-board)
 
-### [**DIY THS7314 Amp:**](/consoles/snes/mini/diy-bypass)
+### [**DIY THS7314 Amp:**](/consoles/snes/mini/diy-bypass.md)
 
 The THS7314 amp is commonly used in many modding projects, as it’s cheap and easy to assemble.  It’s a good quality amp and learning how to make your own might be fun for any DIY’ers.  Here’s a guide on how to install one in a SNES Mini and for reference, here’s a page all about the amp itself:  [http://retrorgb.com/thsamps.html](http://retrorgb.com/thsamps.html)
 
-[![](https://cdn.retrorgb.com/images/RGBAmpwResistors.jpg)](/consoles/snes/mini/diy-bypass)
+[![](https://cdn.retrorgb.com/images/RGBAmpwResistors.jpg)](/consoles/snes/mini/diy-bypass.md)
 
-### [**Pre-assembled THS7314 amps:**](/consoles/snes/mini/premade-7374)
+### [**Pre-assembled THS7314 amps:**](/consoles/snes/mini/premade-7374.md)
 
 People have integrated the THS7314 into their own pre-made board.  This guide specifically shows how to install Borti’s board, however the basic instructions will be the same for pretty much anything similar (add the csync line first, tap RGB, add brightness-attenuating resistors, done):
 
-[![](https://cdn.retrorgb.com/images/SNESMiniRGBPage03.jpg)](/consoles/snes/mini/premade-7374)
+[![](https://cdn.retrorgb.com/images/SNESMiniRGBPage03.jpg)](/consoles/snes/mini/premade-7374.md)
 
-### **[S-Video Mod:](/consoles/snes/mini/s-video-mod)**
+### **[S-Video Mod:](/consoles/snes/mini/s-video-mod.md)**
 
 If you’re already doing an RGB mod on your SNES Mini, you might want to consider adding S-Video as well:
 
-[![](https://cdn.retrorgb.com/images/SNESS-Video01.jpg)](/consoles/snes/mini/s-video-mod)
+[![](https://cdn.retrorgb.com/images/SNESS-Video01.jpg)](/consoles/snes/mini/s-video-mod.md)
 
 ### **Counterfeit SNES Mini’s:**
 

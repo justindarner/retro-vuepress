@@ -17,15 +17,15 @@ This page describes in detail which RGB cables to buy and which will output prop
 
 This page shows you the different versions of the SNES and compares the video quality of each of the revisions.
 
-## [SNES Mini RGB Info](/consoles/snes/mini/rgb)
+## [SNES Mini RGB Info](/consoles/snes/mini/rgb.md)
 
 The SNES Mini / Jr requires a modification to enable RGB output.  This page provides information on the different SNES Mini RGB mods available.
 
-## [SNES 1CHIP Revision](/consoles/snes/1chip/index)
+## [SNES 1CHIP Revision](/consoles/snes/1chip/README.md)
 
 The SNES “1CHIP” consoles are the only revisions in the original case that output video quality as good as the SNES Mini.  This page has information on these consoles, methods to find them and ways to enhance them.
 
-## [SNES Digital Audio Mod](/consoles/snes/digital-audio/index)
+## [SNES Digital Audio Mod](/consoles/snes/digital-audio/README.md)
 
 The SNES is capable of outputting SPDIF digital audio.
 
@@ -43,7 +43,7 @@ The Super NT is an FPGA SNES designed by Kevtris that outputs up to 1080p 5x in 
 
 ## Summary
 
-– If you don’t “need” a model 1, just get a SNES Mini and either [mod it for RGB](/consoles/snes/mini/rgb), or send it out to be modded.
+– If you don’t “need” a model 1, just get a SNES Mini and either [mod it for RGB](/consoles/snes/mini/rgb.md), or send it out to be modded.
 
 – If you insist on using an original SNES 1, try to hunt down a console with a serial number that starts with “UN3” (as explained in the [1CHIP SNES section](/consoles/snes/1chip/finding-the-1chip)), then open it up and hope it’s a 1CHIP!
 

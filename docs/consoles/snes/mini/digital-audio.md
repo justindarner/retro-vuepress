@@ -46,7 +46,7 @@ Next, cover the bottom of the digital audio board in non-conductive tape.  You 
 Then, locate the following points on the bottom of the motherboard and solder a wire to each one (I suggest using the [full-sized picture below this one](https://cdn.retrorgb.com/images/SNESMiniDigitalAudio08-Large.jpg) as a reference as well).  Also, make sure not to forget #5, which is towards the bottom and shown in the right pic (click for full-sized):
 [![](https://cdn.retrorgb.com/images/SNESMiniDigitalAudio07.jpg)](https://cdn.retrorgb.com/images/SNESMiniDigitalAudio07-Large.jpg)
 
-After soldering the wires, run them along side the board.  I suggest using the exact spot I did, to avoid pinching the wires in the SNES’ plastic.  Here’s some tips for making this a bit easier (click the pic for full-sized, [RGB Amp](/consoles/snes/mini/rgb) also shown in the full pic):
+After soldering the wires, run them along side the board.  I suggest using the exact spot I did, to avoid pinching the wires in the SNES’ plastic.  Here’s some tips for making this a bit easier (click the pic for full-sized, [RGB Amp](/consoles/snes/mini/rgb.md) also shown in the full pic):
 
 > – Put a **_tiny_** dab of hot glue on the board, then push the wires into it before it cools.  I found it easier to use two dabs / two groups of wires  This close-up is deceiving and makes it look bigger then it is;  You’ll notice the two tiny bits of glue are even smaller then the screw head in the picture.
 >
